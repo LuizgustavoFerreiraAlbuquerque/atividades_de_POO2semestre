@@ -1,0 +1,7 @@
+01;ads;Presencial
+02;medicina;Presencial
+03;ed fisica;Presencial
+04;sistemas biomedicos;Presencial
+05;enfermagem;Presencial
+06;fono;Presencial
+07;fisio;Presencial
